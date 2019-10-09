@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThePacielloGroup/cupper.git"
+    "url": "git+https://github.com/wastemobile/cupper.git"
   },
   "author": "Heydon Pickering <heydon@heydonworks.com> (http://www.heydonworks.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThePacielloGroup/cupper/issues"
+    "url": "https://github.com/wastemobile/cupper/issues"
   },
-  "homepage": "https://github.com/ThePacielloGroup/cupper#readme",
+  "homepage": "https://github.com/wastemobile/cupper#readme",
   "devDependencies": {
     "pre-commit": "^1.2.2",
     "sw-precache": "^5.2.0"
